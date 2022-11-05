@@ -1,7 +1,5 @@
 # Day 2 figma to Css
 
-![Screenshot](./img/users-search-card.jpg)
-
 ### Create & Modify File
 
 - Create Html, CSs and img folder
